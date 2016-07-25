@@ -1,2 +1,2 @@
-# caitieglover.github.io
-This is my site
+# This is my website
+To install just download and run
